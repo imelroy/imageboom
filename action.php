@@ -8,26 +8,26 @@
     <title>Document</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-warning">
+<nav class="navbar navbar-expand-lg navbar-light bg-warning">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">!mageBoom</a>
+          <a class="navbar-brand" href="index.php">!mageBoom</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="main.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
              
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Dropdown
+                  Category
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="action.html">Action</a></li>
-                  <li><a class="dropdown-item" href="anime.html">Animation</a></li>
-                  <li><a class="dropdown-item" href="sport.html">Sports</a></li>
+                  <li><a class="dropdown-item" href="action.php">Action</a></li>
+                  <li><a class="dropdown-item" href="anime.php">Animation</a></li>
+                  <li><a class="dropdown-item" href="sport.php">Sports</a></li>
                   
                 </ul>
               </li>
@@ -44,13 +44,13 @@
         <br>
         <div class="row">
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
-                <a class="fancybox" rel="group1" href="https://cdn.britannica.com/84/139484-050-D91679CC/Michael-Ballack-Germany-Italy-Cristian-Zaccardo-March-1-2006.jpg"><img class="img-fluid" src="https://cdn.britannica.com/84/139484-050-D91679CC/Michael-Ballack-Germany-Italy-Cristian-Zaccardo-March-1-2006.jpg" alt="gallery"></a>
+                <a class="fancybox" rel="group1" href="https://www.liveabout.com/thmb/VLkCWYdoAlzbZCXw1UVGoSs6syc=/1280x720/smart/filters:no_upscale()/kung_fu_485721175-57c484205f9b5855e5c6ca01.jpg"><img class="img-fluid" src="https://www.liveabout.com/thmb/VLkCWYdoAlzbZCXw1UVGoSs6syc=/1280x720/smart/filters:no_upscale()/kung_fu_485721175-57c484205f9b5855e5c6ca01.jpg" alt="gallery"></a>
             </div>
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
-                <a class="fancybox" rel="group1" href="https://soundvapors.com/wp-content/uploads/2020/03/18254677_web1_T-sports-for-all-2.jpg"><img class="img-fluid" src="https://soundvapors.com/wp-content/uploads/2020/03/18254677_web1_T-sports-for-all-2.jpg" alt="gallery"></a>   
+                <a class="fancybox" rel="group1" href="https://gtimg.tokyo2020.org/image/private/t_article-image-desktop/v1575954975/production/ixngqhlqzu3ivkiyjbrq"><img class="img-fluid" src="https://gtimg.tokyo2020.org/image/private/t_article-image-desktop/v1575954975/production/ixngqhlqzu3ivkiyjbrq" alt="gallery"></a>   
             </div>
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
-                <a class="fancybox" rel="group1" href="https://www.newzealand.com/assets/Tourism-NZ/Other/1e66ed8904/img-1536865157-4742-8548-400ACBC1-9436-FC0A-BCDA4874F521D1F8__aWxvdmVrZWxseQo_FocalPointCropWzQyNyw2NDAsNDYsMjEsODUsImpwZyIsNjUsMi41XQ.jpg"><img class="img-fluid" src="https://www.newzealand.com/assets/Tourism-NZ/Other/1e66ed8904/img-1536865157-4742-8548-400ACBC1-9436-FC0A-BCDA4874F521D1F8__aWxvdmVrZWxseQo_FocalPointCropWzQyNyw2NDAsNDYsMjEsODUsImpwZyIsNjUsMi41XQ.jpg" alt="gallery"></a>   
+                <a class="fancybox" rel="group1" href="https://ak.picdn.net/shutterstock/videos/1011368801/thumb/1.jpg"><img class="img-fluid" src="https://ak.picdn.net/shutterstock/videos/1011368801/thumb/1.jpg" alt="gallery"></a>   
             </div>
             
         </div>
@@ -58,13 +58,13 @@
         <div class="row">
     
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
-                <a class="fancybox" rel="group1" href="https://cdn.kinsights.com/cache/16/b4/16b4f127311c9e0e175e9614c7ed8862.jpg"><img class="img-fluid" src="https://cdn.kinsights.com/cache/16/b4/16b4f127311c9e0e175e9614c7ed8862.jpg" alt="gallery"></a>
+                <a class="fancybox" rel="group1" href="https://static.tvtropes.org/pmwiki/pub/images/rsz_pirates-of-the-caribbean-sword-fight_388.jpg"><img class="img-fluid" src="https://static.tvtropes.org/pmwiki/pub/images/rsz_pirates-of-the-caribbean-sword-fight_388.jpg" alt="gallery"></a>
             </div>
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
-                <a class="fancybox" rel="group1" href="https://internationalwomensday.s3-us-west-2.amazonaws.com/upload/12345-p-159.jpg"><img class="img-fluid" src="https://internationalwomensday.s3-us-west-2.amazonaws.com/upload/12345-p-159.jpg" alt="gallery"></a>   
+                <a class="fancybox" rel="group1" href="https://www.filesilo.co.uk/wp-content/uploads/2014/09/actionscene.jpg"><img class="img-fluid" src="https://www.filesilo.co.uk/wp-content/uploads/2014/09/actionscene.jpg" alt="gallery"></a>   
             </div>
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
-                <a class="fancybox" rel="group1" href="https://img.olympicchannel.com/images/image/private/t_16-9_3200/primary/piultz6nngltq541xmju"><img class="img-fluid" src="https://img.olympicchannel.com/images/image/private/t_16-9_3200/primary/piultz6nngltq541xmju" alt="gallery"></a>   
+                <a class="fancybox" rel="group1" href="http://boomstickcomics.com/wp-content/uploads/2017/12/logan-forest-1024x576.jpg"><img class="img-fluid" src="http://boomstickcomics.com/wp-content/uploads/2017/12/logan-forest-1024x576.jpg" alt="gallery"></a>   
             </div>
             
         </div>
